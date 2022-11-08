@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">P3_RecyclerView</string>
+
+    //StringProvider -> Errores
+    <string name="errorGetPerson">ERROR. Person not found in the list</string>
+    <string name="tvName">Name</string>
+    <string name="tvPhone">Phone</string>
+    <string name="errorDeletePerson">ERROR. Problem to delete the item selected</string>
+    <string name="btnBack">BACK</string>
+    <string name="etName">Name</string>
+    <string name="etPhone">Phone</string>
+    <string name="etPassword">Password</string>
+    <string name="btnAdd">ADD</string>
+    <string name="errorAddPerson">Error adding person</string>
+    <string name="btnUpdate">UPDATE</string>
+    <string name="errorUpdatePersonChangeField">Fail. You must change something to update</string>
+    <string name="errorUpdatePersonErrorField">Fail. There is some field wrong. Check it!</string>
+    <string name="niceUpdatePerson">Person update successfully</string>
+    <string name="errorValidatePerson">Something is wrong. Check it!</string>
+    <string name="niceAddedPerson">addedPerson</string>
+
+</resources>

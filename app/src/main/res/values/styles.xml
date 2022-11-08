@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="my_dialog" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="android:background">@drawable/dialog_circular</item>
+        <item name="android:radius">@dimen/from</item>
+        <item name="android:windowMinWidthMajor">0dp</item>
+        <item name="android:windowMinWidthMinor">0dp</item>
+    </style>
+</resources>
